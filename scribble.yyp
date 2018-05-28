@@ -231,14 +231,6 @@
             }
         },
         {
-            "Key": "3dee5873-260c-4a48-90d8-0c51f65b6951",
-            "Value": {
-                "id": "63127bdc-96de-49e7-8e55-36517dbc9aff",
-                "resourcePath": "sprites\\sSpriteFont\\sSpriteFont.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "41a4ab61-6627-485e-a01b-c23c177c916e",
             "Value": {
                 "id": "4a9f845a-e929-4be8-8062-87b7b56c0a62",
@@ -279,6 +271,14 @@
             }
         },
         {
+            "Key": "4f5e57ff-b461-49c8-8d94-b84820dd3f9b",
+            "Value": {
+                "id": "79fcf514-64bc-4a4f-a6ef-4d957668caf3",
+                "resourcePath": "views\\4f5e57ff-b461-49c8-8d94-b84820dd3f9b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "503cf607-27a8-45bf-a70c-c4f6011d4644",
             "Value": {
                 "id": "2e664e4e-8780-406d-a7c5-9db63c8ff808",
@@ -316,14 +316,6 @@
                 "id": "9cce4eaf-8054-466c-92f5-66d1f4bf7507",
                 "resourcePath": "scripts\\scribble_shader_line_fade\\scribble_shader_line_fade.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "633d7395-f018-4c16-a188-1281be2d8da8",
-            "Value": {
-                "id": "b085c432-ef34-436f-9c45-a7b526f7a6cd",
-                "resourcePath": "datafiles_yy\\Fonts\\fTestA.yy.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -519,19 +511,19 @@
             }
         },
         {
-            "Key": "8c053dc1-a3f7-4d8a-b929-e87126b0ee81",
-            "Value": {
-                "id": "698352dc-88a2-495a-ab3d-3fb5cd6fc5a9",
-                "resourcePath": "datafiles_yy\\Fonts\\fTestB.png.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "9037e147-def6-41fd-842a-036094a9dc58",
             "Value": {
                 "id": "84b4b400-2a1d-4864-984d-bbc5100e00e5",
                 "resourcePath": "scripts\\__scribble_submit_vertex_buffer\\__scribble_submit_vertex_buffer.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9135b1c8-07ce-4442-a30a-70e9fc51709e",
+            "Value": {
+                "id": "7e0cdf7f-2175-4113-a1b5-39eec0418e0b",
+                "resourcePath": "views\\9135b1c8-07ce-4442-a30a-70e9fc51709e.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -588,22 +580,6 @@
                 "id": "81c9abcf-8081-4d51-a544-be7cac5bf2de",
                 "resourcePath": "views\\9a14b894-4693-4a4a-a152-7ede094c183a.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "9b08d9da-d0f3-4c56-adba-dd0ede8285f6",
-            "Value": {
-                "id": "d565b0e0-2a0f-4dac-bb24-911af42d498b",
-                "resourcePath": "views\\9b08d9da-d0f3-4c56-adba-dd0ede8285f6.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "9f02de9f-6de9-4db1-9411-e6ea08c02285",
-            "Value": {
-                "id": "369e47e3-1852-4bbb-a1d4-3807b156925d",
-                "resourcePath": "sprites\\sCoin\\sCoin.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -815,14 +791,6 @@
             }
         },
         {
-            "Key": "cb956d73-9044-40fe-9130-44b325fa3657",
-            "Value": {
-                "id": "9ab3a1b6-b46b-4a2a-86ce-460dc1cc1b24",
-                "resourcePath": "objects\\oTest\\oTest.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "a4a671e8-7a67-41ec-aeac-662bfabcc64b",
@@ -863,27 +831,11 @@
             }
         },
         {
-            "Key": "d922db80-2bdc-4bd0-bf27-d2b8d139e448",
-            "Value": {
-                "id": "f1997d00-c3a3-4bcc-81a4-bc92e0f37867",
-                "resourcePath": "datafiles_yy\\Fonts\\fTestA.png.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "daa30cee-1636-4fef-a065-02d8785a3f63",
             "Value": {
                 "id": "32f83d8f-2dae-4e51-95b0-668a9df92be5",
                 "resourcePath": "scripts\\__scribble_replace_newlines\\__scribble_replace_newlines.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "dbcf1cbf-cbd0-40fa-9a88-c5c9e80976c1",
-            "Value": {
-                "id": "097da67d-0eba-44a0-8a35-8659d042920e",
-                "resourcePath": "rooms\\rMain\\rMain.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -903,27 +855,11 @@
             }
         },
         {
-            "Key": "e27a3260-8000-4846-bd5c-f14e05d20a49",
-            "Value": {
-                "id": "00901975-4618-4479-abc0-a928e188f163",
-                "resourcePath": "datafiles_yy\\Fonts\\fTestB.yy.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "e316a90a-0519-41f7-ac12-d02c46bf2b2a",
             "Value": {
                 "id": "80e35819-8339-4bde-85dd-585d1bdf85f1",
                 "resourcePath": "scripts\\__scribble_find_separator\\__scribble_find_separator.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "e346a946-97e3-4051-96c1-3b6c92346baf",
-            "Value": {
-                "id": "a28346b5-8063-4be2-ba61-0588ab782fcc",
-                "resourcePath": "fonts\\fTestA\\fTestA.yy",
-                "resourceType": "GMFont"
             }
         },
         {
@@ -948,14 +884,6 @@
                 "id": "f2e49ed4-b540-4e90-ba91-2c628af64e44",
                 "resourcePath": "scripts\\__scribble_default_shader_values\\__scribble_default_shader_values.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "e9480819-6da8-4390-8deb-cc0446f16851",
-            "Value": {
-                "id": "0c003888-265a-487d-b610-0ef0feee2dd4",
-                "resourcePath": "fonts\\fTestB\\fTestB.yy",
-                "resourceType": "GMFont"
             }
         },
         {
@@ -992,8 +920,6 @@
         }
     ],
     "script_order": [
-        "acb26a39-8033-4289-87d0-228ed7921bc8",
-        "65693674-8df2-47ef-8e65-871d54e3be32",
         "2a990a85-9068-4823-837c-39833023e41f",
         "e316a90a-0519-41f7-ac12-d02c46bf2b2a",
         "daa30cee-1636-4fef-a065-02d8785a3f63",
@@ -1063,7 +989,9 @@
         "6280ab69-9951-427e-bfd3-ab5172458d00",
         "41a4ab61-6627-485e-a01b-c23c177c916e",
         "8988371a-4e1a-4781-be84-c3e23412b433",
-        "a4842a55-638c-4426-82c4-29c17402811f"
+        "a4842a55-638c-4426-82c4-29c17402811f",
+        "acb26a39-8033-4289-87d0-228ed7921bc8",
+        "65693674-8df2-47ef-8e65-871d54e3be32"
     ],
     "tutorial": ""
 }

@@ -1,3 +1,5 @@
+gml_pragma( "global", "__scribble_init()" );
+
 global.__scribble_image_map     = ds_map_create();
 global.__scribble_image_x_map   = ds_map_create();
 global.__scribble_image_y_map   = ds_map_create();
@@ -19,3 +21,5 @@ global.__scribble_vertex_format = vertex_format_end();
 
 if ( array_length_1d( SCRIBBLE_FONT_ARRAY ) ) scribble_load_fonts( SCRIBBLE_FONT_ARRAY );
 __scribble_additional_init_commands();
+
+bootstrapper_package_finish( "Scribble" );
